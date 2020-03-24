@@ -7,7 +7,7 @@ setup(
     description='Live vehicle tracker map',
     author='Mohamed Osman',
     author_email='mohamedtosman@cmail.carleton.ca',
-    url='',
+    url='https://github.com/mohamedtosman/tracking',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
