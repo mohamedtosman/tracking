@@ -46,6 +46,11 @@ An open source custom designed SDK for online maps.
 
 6. You can now access the application at `localhost:5000`
 
+## Visualization
+
+I used Mapbox and Leaflet as suggested by you guys as it seemed 
+pretty straightforward and easy to use.
+
 ## API
 
 ### Register vehicle - `POST`
