@@ -84,17 +84,17 @@ Return code - `203`
 
 ## Database Models
 
-`vehicle`
+### vehicle Table
 
 Cresates a table that keeps a record of all vehicles. It consists of
 1 column: `vehicle_uuid`
 
-`registration`
+### registration Table
 
 Creates a table that holds info regarding vehicles registering/deregistering.
 It consists of 3 columns: `vehicle_id`, `action`, and `time`.
 
-`location`
+### location Table 
 
 Creates a table that holds info regarding movement updates of vehicles.
 It consists of 4 columns: `vehicle_id`, `lat`, `lng`, and `time`.
