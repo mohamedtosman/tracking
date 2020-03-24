@@ -40,6 +40,8 @@ and it seemed easy to use and matches my needs for this project.
 
 `flask run`
 
+6. You can now access the application at `localhost:5000`
+
 ## API
 
 ### Register vehicle - `POST`
@@ -84,7 +86,7 @@ Return code - `203`
 
 `vehicle`
 
-A table that keeps a record of all vehicles. It consists of
+Cresates a table that keeps a record of all vehicles. It consists of
 1 column: `vehicle_uuid`
 
 `registration`
