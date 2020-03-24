@@ -19,6 +19,10 @@ Leaflet is the leading open-source JavaScript library for mobile-friendly intera
 After a bit of research, i found multiple tutorials explaining how it works
 and it seemed easy to use and matches my needs for this project.
 
+### Mapbox
+
+An open source custom designed SDK for online maps.
+
 ### HTML/JavaScript/CSS
 ### Pytest
 
