@@ -2,25 +2,25 @@
 
 ## Technologies
 
-Python3/Flask
+### Python3/Flask
 
 I used the technologies above as Flask is super lightweight. It allows for
 quick creation of webservices and is super minimalistic.
 
-SQLAlchemy/SQLite
+### SQLAlchemy/SQLite
 
 I used the technologies above as SQLite is an opensource SQL database that stores data to a text file on a device.
 A huge advantage of that is that it offers great accessibility and provided
 Python libraries are simple to use.
 
-Leaflet
+### Leaflet
 
 Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
 After a bit of research, i found multiple tutorials explaining how it works
 and it seemed easy to use and matches my needs for this project.
 
-HTML/JavaScript/CSS
-Pytest
+### HTML/JavaScript/CSS
+### Pytest
 
 ## Installation
 
